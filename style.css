@@ -1,0 +1,57 @@
+.style {
+    font-family: 'Montserrat';
+    font-style: italic;
+    font-size: 25px;
+    line-height: 0%;
+
+}
+
+body {
+    overflow-x: hidden;
+}
+
+.botton {
+    background-color: #EF790C;
+}
+
+.border {
+    border-style: solid #EF790C;
+    border-width: 20px;
+}
+
+.bg-color {
+    background: rgba(239, 121, 12, 0.08);
+
+}
+
+.color {
+    color: #EF790C;
+
+}
+
+.bali {
+    font-size: 50px;
+}
+
+.text-shadow {
+    text-shadow: 2px 2px 4px #EF790C;
+    color: whitesmoke;
+    font-size: 50px;
+}
+
+.font {
+    color: rgba(72, 98, 132, 1);
+}
+
+.design {
+    width: 420.58px;
+    height: 444.21px;
+
+
+    /* Inside auto layout */
+
+    flex: none;
+    order: 0;
+    flex-grow: 0;
+    z-index: 0;
+}
